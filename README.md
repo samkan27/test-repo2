@@ -10,4 +10,3 @@ X scripting
 X scripting2
 wi
 er
-qwe
